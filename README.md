@@ -10,3 +10,4 @@ The task here was to create a lightweight app, the thinnest possible, that respo
     * Instruct the app listen on a given port
 5. Navigate to root directory of the project, `node app`
 6. In browser or Postman, make a get request to localhost:5000
+7. The response should be a json object {msg: "hello world"}
