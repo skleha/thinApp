@@ -1,6 +1,6 @@
 ## thinApp
 
-The task here was to create a lightweight app, the thinnest possible, that responded to http requests using technologies that I was familiar with.  I used the following process and technologies:
+The task here was to create a lightweight app, the thinnest possible, that responded to http requests using Express.  I used the following process and technologies:
 1. Set up new npm package
 2. Install Express
 3. Create app.js
